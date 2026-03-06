@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-application/exercise-app/static/css/main.9d1b016a.css",
-    "main.js": "/react-application/exercise-app/static/js/main.9b4373a0.js",
-    "index.html": "/react-application/exercise-app/index.html",
-    "main.9d1b016a.css.map": "/react-application/exercise-app/static/css/main.9d1b016a.css.map",
-    "main.9b4373a0.js.map": "/react-application/exercise-app/static/js/main.9b4373a0.js.map"
+    "main.css": "/react-application/static/css/main.9d1b016a.css",
+    "main.js": "/react-application/static/js/main.9b4373a0.js",
+    "index.html": "/react-application/index.html",
+    "main.9d1b016a.css.map": "/react-application/static/css/main.9d1b016a.css.map",
+    "main.9b4373a0.js.map": "/react-application/static/js/main.9b4373a0.js.map"
   },
   "entrypoints": [
     "static/css/main.9d1b016a.css",
